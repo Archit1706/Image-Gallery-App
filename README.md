@@ -26,8 +26,8 @@ Welcome to the Image Gallery App – a simple web application that allows users 
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/image-gallery-app.git
-    cd image-gallery-app
+    git clone https://github.com/Archit1706/Image-Gallery-App.git
+    cd Image-Gallery-App
     ```
 
 2. Open the `index.html` file in your web browser.
